@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
+<module version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
-    <content url="file://$MODULE_DIR$/../Question3/DIP_Violation">
-      <sourceFolder url="file://$MODULE_DIR$/../Question3/DIP_Violation/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../Question3/DIP_Violation/src/test/java" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../Question3/DIP_Violation/target" />
+    <content url="file://$MODULE_DIR$/../Question3/DIP_Correction">
+      <sourceFolder url="file://$MODULE_DIR$/../Question3/DIP_Correction/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Question3/DIP_Correction/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../Question3/DIP_Correction/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

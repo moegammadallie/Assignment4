@@ -3,9 +3,9 @@ public class Encapulation {
 
     public void run(){
         stud =  StudentClass.StudentMaker.newInstance()
-                .setStudentName("Muhammad Amoo")
-                .setCourse("IT")
-                .setYear_of_study(4)
+                .setStudentName("Moegammad")
+                .setCourse("AppDev")
+                .setYear_of_study(3)
                 .build();
 
         System.out.println("Student name   :"+stud.getStudentName()

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Encapulation" />
+        <module name="Inheritance" />
+        <module name="Polymorphism" />
+        <module name="Question2" />
+        <module name="Question3" />
+        <module name="SRP_Correction" />
+        <module name="SRP_Violation" />
+      </profile>
+      <profile name="Annotation profile for Assignment4" enabled="true">
+        <sourceOutputDir name="../../DIP_Correction/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../DIP_Correction/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DIP_Correction" />
+      </profile>
+      <profile name="Annotation profile for OCP_Violation" enabled="true">
+        <sourceOutputDir name="../../OCP_Violation/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../OCP_Violation/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="OCP_Violation" />
+      </profile>
+      <profile name="Annotation profile for DIP_Violation" enabled="true">
+        <sourceOutputDir name="../../DIP_Violation/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../DIP_Violation/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DIP_Violation" />
+      </profile>
+      <profile name="Annotation profile for LSP_Correction" enabled="true">
+        <sourceOutputDir name="../../LSP_Correction/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../LSP_Correction/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LSP_Correction" />
+      </profile>
+      <profile name="Annotation profile for OCP_Correction" enabled="true">
+        <sourceOutputDir name="../../OCP_Correction/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../OCP_Correction/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="OCP_Correction" />
+      </profile>
+      <profile name="Annotation profile for LSP_Violation" enabled="true">
+        <sourceOutputDir name="../../LSP_Violation/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../LSP_Violation/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LSP_Violation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DIP_Correction" target="1.7" />
+      <module name="DIP_Violation" target="1.7" />
+      <module name="LSP_Correction" target="1.7" />
+      <module name="LSP_Violation" target="1.7" />
+      <module name="OCP_Correction" target="1.7" />
+      <module name="OCP_Violation" target="1.7" />
+      <module name="SRP_Correction" target="1.7" />
+      <module name="SRP_Violation" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

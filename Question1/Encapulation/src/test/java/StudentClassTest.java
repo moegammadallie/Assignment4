@@ -11,7 +11,6 @@ public class StudentClassTest {
     @Before
     public void setUp() throws Exception {
         stud = StudentClass.StudentMaker.newInstance()
-                .setStudentName("Moegammad")
                 .setCourse("AppDev")
                 .setYear_of_study(4).build();
     }
@@ -20,11 +19,6 @@ public class StudentClassTest {
     public void tearDown() throws Exception {
     }
 
-    @Test
-    public void getStudentName()
-    {
-        Assert.assertEquals(stud.getStudentName(), "Moegammad");
-    }
 
     @Test
     public void getCourse()

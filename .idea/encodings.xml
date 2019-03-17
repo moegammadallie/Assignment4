@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question1/Encapulation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question1/Inheritance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question1/Polymorphism" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question3/DIP_Correction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question3/DIP_Violation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question3/LSP_Correction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question3/LSP_Violation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question3/OCP_Correction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question3/OCP_Violation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question3/SRP_Correction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question3/SRP_Violation" charset="UTF-8" />
+  </component>
+</project>

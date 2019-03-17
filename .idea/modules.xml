@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Question3/DIP_Correction/DIP_Correction.iml" filepath="$PROJECT_DIR$/Question3/DIP_Correction/DIP_Correction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question3/DIP_Violation/DIP_Violation.iml" filepath="$PROJECT_DIR$/Question3/DIP_Violation/DIP_Violation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question3/LSP_Correction/LSP_Correction.iml" filepath="$PROJECT_DIR$/Question3/LSP_Correction/LSP_Correction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question3/LSP_Violation/LSP_Violation.iml" filepath="$PROJECT_DIR$/Question3/LSP_Violation/LSP_Violation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question3/OCP_Correction/OCP_Correction.iml" filepath="$PROJECT_DIR$/Question3/OCP_Correction/OCP_Correction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question3/OCP_Violation/OCP_Violation.iml" filepath="$PROJECT_DIR$/Question3/OCP_Violation/OCP_Violation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question3/SRP_Correction/SRP_Correction.iml" filepath="$PROJECT_DIR$/Question3/SRP_Correction/SRP_Correction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question3/SRP_Violation/SRP_Violation.iml" filepath="$PROJECT_DIR$/Question3/SRP_Violation/SRP_Violation.iml" />
+    </modules>
+  </component>
+</project>
